@@ -19,6 +19,7 @@
 - [데이터사이언스스쿨](https://datascienceschool.net/intro.html)
 - [Kaggle](https://www.kaggle.com/learn)
 - [paperswithcode](https://paperswithcode.com/)
+- [Hugging Face](https://huggingface.co/)
 - [boostcourse](https://www.boostcourse.org/)
 - [꼼꼼한 딥러닝 논문 리뷰와 코드 실습](https://www.youtube.com/playlist?list=PLRx0vPvlEmdADpce8aoBhNnDaaHQN1Typ)
 
