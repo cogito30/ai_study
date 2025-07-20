@@ -15,6 +15,7 @@
 
 
 ## Subject
+- [Basic](./01_basic)
 - [Data Preprocessing]()
 - [Data Visualization]()
 - [AI Model]()
