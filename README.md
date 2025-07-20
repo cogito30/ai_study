@@ -8,12 +8,16 @@
 - 추천 알고리즘 -> Recommender System
 
 ## Certificate
-1) [ADsP]()
-2) [빅데이터분석기사]()
-3) [ADP]()
+1) [ADsP](https://www.dataq.or.kr/www/main.do)
+2) [SQLD](https://www.dataq.or.kr/www/main.do)
+3) [빅데이터분석기사](https://www.dataq.or.kr/www/main.do)
+4) [ADP](https://www.dataq.or.kr/www/main.do)
+
 
 ## Subject
-- []()
+- [Data Preprocessing]()
+- [Data Visualization]()
+- [AI Model]()
 
 ## 참고자료
 - [데이터사이언스스쿨](https://datascienceschool.net/intro.html)
@@ -24,6 +28,8 @@
 - [꼼꼼한 딥러닝 논문 리뷰와 코드 실습](https://www.youtube.com/playlist?list=PLRx0vPvlEmdADpce8aoBhNnDaaHQN1Typ)
 
 ## 점수기록
+#### SQLD
+- 64점(2022.09.30)
 #### ADsP
 - 82점(2024.11.29)
 #### 빅데이터분석기사
